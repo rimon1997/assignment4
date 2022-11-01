@@ -1,0 +1,49 @@
+
+
+*{
+    margin: 10px;
+    padding: 1px 0;
+}
+header{
+    overflow: hidden;
+    /* background-color: darkorange; */
+    width: 80%;
+    }
+.logo{
+    /* background-color: blue; */
+    width: 20%;
+    float: left;
+}
+.logo img{
+
+}
+.menu{
+
+/* background-color: burlywood; */
+
+width: 70%;
+
+float: right;
+}
+.menu ul{
+
+float: right;
+
+background-color: royalblue;
+}
+.menu li{
+
+float: left;
+
+margin-left: 8px;
+
+list-style: none;
+
+text-transform: uppercase;
+
+/* text-decoration: none; */
+}
+.menu a{
+    
+text-decoration: none;
+}
